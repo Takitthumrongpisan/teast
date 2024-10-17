@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Takit Thumrongpisan</h1>
 <h3 align="center">TFEX (Thailand Futures Exchange)</h3>
 
-
-
 - 📝 I regularly write articles on [https://th.tradingview.com/u/ABCD6565/](https://th.tradingview.com/u/ABCD6565/)
 
 - 📫 How to reach me **new.takitthumrong@gmail.com**
